@@ -1,0 +1,42 @@
+.card {
+	margin: 20px auto;
+	width: 320px;
+	border: 0.5px solid #696969;
+	padding: 10px;
+	background-color: #faebd7;
+	border-radius: 10px;
+	box-shadow:  8px 8px 4px rgba(0,0,0,0.2);
+
+}
+
+.robin, h3 {
+	margin-left: 10px;
+	border-radius: 10px;
+	width: 300px;
+}
+
+.card-text-area {
+	margin: 10px;
+	border:0.5px solid #696969;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+.fact {
+	font-style: italic;
+}
+
+ul {
+	list-style: none;
+	padding: 0 ;
+}
+
+span {
+	font-weight: bold;
+}
+
+p {
+	font-family: cursive, sans-serif;
+}
+
+
