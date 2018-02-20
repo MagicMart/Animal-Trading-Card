@@ -23,7 +23,6 @@
 }
 
 .card-fact {
-  font-family: Verdana, sans-serif;
   font-style: italic;
 }
 
@@ -36,6 +35,6 @@
   font-weight: bold;
 }
 
-.card-main-text {
+.card p {
   font-family: Verdana, sans-serif;
 }
