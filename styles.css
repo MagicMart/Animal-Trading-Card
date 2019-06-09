@@ -1,40 +1,40 @@
 .card {
-  margin: 20px auto;
-  width: 320px;
-  border: 1px solid #696969;
-  padding: 10px;
-  background-color: #faebd7;
-  border-radius: 10px;
-  box-shadow: 8px 8px 4px rgba(0, 0, 0, 0.2);
+    margin: 20px auto;
+    width: 320px;
+    border: 1px solid #696969;
+    padding: 10px;
+    background-color: #f7ebdd;
+    border-radius: 10px;
+    box-shadow: 8px 8px 4px rgba(0, 0, 0, 0.2);
 }
 
 .robin-image,
 .card-title {
-  margin-left: 10px;
-  border-radius: 10px;
-  width: 300px;
+    margin-left: 10px;
+    border-radius: 10px;
+    width: 300px;
 }
 
 .card-text-area {
-  margin: 10px;
-  border: 1px solid #696969;
-  padding: 10px;
-  border-radius: 10px;
+    margin: 10px;
+    border: 1px solid #696969;
+    padding: 10px;
+    border-radius: 10px;
 }
 
 .card-fact {
-  font-style: italic;
+    font-style: italic;
 }
 
 .card-list {
-  list-style: none;
-  padding: 0;
+    list-style: none;
+    padding: 0;
 }
 
 .card-list span {
-  font-weight: bold;
+    font-weight: bold;
 }
 
 .card p {
-  font-family: Verdana, sans-serif;
+    font-family: Verdana, sans-serif;
 }
